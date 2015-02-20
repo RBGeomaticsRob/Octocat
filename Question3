@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is where you take a version of your repository at a point in time and create another channel of it to work on a specific task, which should be kept small and limited to ensure that if there are conflicts when it is merged back with the original(master) branch they can be easily understood. It is also possible that the branch may never be combined back, if for example the task being undertaken was deemed not posssible or superceeded by a better idea.
