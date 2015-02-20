@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is used to connect to the core repository of a project you are working on and will wish to send pull request to. This allows you to fetch the latest version of the repository to try and ensure you are not delivering a conflict.
