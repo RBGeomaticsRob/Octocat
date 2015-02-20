@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git Clone retrieves the current version of a remote repository it is given and then initiates a copy of this repository inside the directory it is directed to. Hence you should not create a directory to put it inside, or it will double stack.
